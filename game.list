@@ -1,6 +1,9 @@
 #Name：无尽对决手游
 DOMAIN-KEYWORD,youngjoygame
 DOMAIN,graph.facebook.com
+DOMAIN-SUFFIX,googlespis.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-KEYWORD,bytegsdk
 DOMAIN-KEYWORD,isnssdk
 IP-CIDR,199.182.235.10/32,no-resolve
