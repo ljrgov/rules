@@ -1,6 +1,9 @@
 #Name：无尽对决手游
 DOMAIN-KEYWORD,youngjoygame
 DOMAIN-KEYWORD,bytegsdk
+DOMAIN-KEYWORD,isnssdk
+IP-CIDR,199.182.235.10/32
+IP-CIDR,92.223.87.38/32
 # NAME: Steam
 DOMAIN,steammobile.akamaized.net
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
