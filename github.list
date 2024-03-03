@@ -1,4 +1,7 @@
 # NAME: GitHub
+#DOMAIN-KEYWORD,sub-store
+#DOMAIN-SUFFIX,boxjs.app
+DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,ghcr.io
@@ -29,7 +32,5 @@ DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
-DOMAIN-SUFFIX,boxjs.app
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,sub-store
