@@ -1,6 +1,6 @@
 # NAME: GitHub
-#DOMAIN-KEYWORD,sub-store
-#DOMAIN-SUFFIX,boxjs.app
+DOMAIN-KEYWORD,sub-store
+DOMAIN-SUFFIX,boxjs.app
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
