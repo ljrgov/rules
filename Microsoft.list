@@ -23,6 +23,7 @@ DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,r.bing.com
+DOMAIN-SUFFIX,bingapis.com
 DOMAIN,self.events.data.microsoft.com
 DOMAIN,services.bingapis.com
 DOMAIN,static.cloudflareinsights.com
