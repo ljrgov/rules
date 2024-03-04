@@ -2,9 +2,6 @@
 DOMAIN-KEYWORD,bytegsdk
 DOMAIN-KEYWORD,isnssdk
 DOMAIN-KEYWORD,youngjoygame
-DOMAIN,graph.facebook.com
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN,firebaselogging-pa.googleapis.com
 IP-CIDR,199.182.235.10/32,no-resolve
 IP-CIDR,92.223.87.38/32,no-resolve
 IP-CIDR,92.223.87.38/32,no-resolve
