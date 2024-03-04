@@ -1,10 +1,5 @@
 # NAME: Global
-# Boxjs/substore 代理
-DOMAIN-KEYWORD,vercel.app
-DOMAIN-KEYWORD,jsdelivr
-DOMAIN-KEYWORD,i.pinimg
 DOMAIN-KEYWORD,64.media.tumblr.com
-#
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-KEYWORD,yahoo
 DOMAIN-SUFFIX,login.yahoo.com
