@@ -1,7 +1,8 @@
 # NAME: Global
-# Boxjs 代理
-DOMAIN-KEYWORD,jsdelivr.net
-DOMAIN-KEYWORD,i.pinimg.com
+# Boxjs/substore 代理
+DOMAIN-KEYWORD,vercel.app
+DOMAIN-KEYWORD,jsdelivr
+DOMAIN-KEYWORD,i.pinimg
 DOMAIN-KEYWORD,64.media.tumblr.com
 #
 DOMAIN-KEYWORD,yahoo
