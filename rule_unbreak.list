@@ -394,7 +394,6 @@ DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
-DOMAIN-KEYWORD,aw-s.tripcdn.com
 DOMAIN-KEYWORD,trip.com
 IP-CIDR,192.168.0.1/24
 IP-CIDR,192.168.1.1/24
