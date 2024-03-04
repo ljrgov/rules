@@ -336,8 +336,6 @@ USER-AGENT,WeChat*
 
 
 #杂七杂八
-DOMAIN,ad.12306.cn
-DOMAIN-KEYWORD,anti-ad.net
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
 DOMAIN,static.jssp.tv
