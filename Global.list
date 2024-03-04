@@ -1,4 +1,9 @@
 # NAME: Global
+# Boxjs 代理
+DOMAIN-KEYWORD,jsdelivr.net
+DOMAIN-KEYWORD,i.pinimg.com
+DOMAIN-KEYWORD,64.media.tumblr.com
+#
 DOMAIN-KEYWORD,yahoo
 DOMAIN-SUFFIX,login.yahoo.com
 DOMAIN-SUFFIX,s.yimg.com
