@@ -1,4 +1,9 @@
 # NAME: GitHub
+# Boxjs/substore 代理
+DOMAIN-KEYWORD,vercel.app
+DOMAIN-KEYWORD,jsdelivr
+DOMAIN-KEYWORD,i.pinimg
+#
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,ghcr.io
