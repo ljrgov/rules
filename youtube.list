@@ -1,4 +1,5 @@
 # NAME: YouTube
+DOMAIN-SUFFIX,youtube.googleapis.com
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
@@ -106,7 +107,6 @@ DOMAIN-SUFFIX,youtube.es
 DOMAIN-SUFFIX,youtube.fi
 DOMAIN-SUFFIX,youtube.fr
 DOMAIN-SUFFIX,youtube.ge
-DOMAIN-SUFFIX,youtube.googleapis.com
 DOMAIN-SUFFIX,youtube.gr
 DOMAIN-SUFFIX,youtube.gt
 DOMAIN-SUFFIX,youtube.hk
