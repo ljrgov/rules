@@ -1,5 +1,6 @@
 # NAME: Google
 DOMAIN,google
+DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN-KEYWORD,google
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
