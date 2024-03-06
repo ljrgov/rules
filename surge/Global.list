@@ -1,3 +1,4 @@
+#全球分流规则，国内除外
 # NAME: Global
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,grindr.com
