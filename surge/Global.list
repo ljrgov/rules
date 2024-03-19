@@ -10,6 +10,10 @@ DOMAIN-SUFFIX,s.yimg.com
 DOMAIN-SUFFIX,i.clean.gg
 DOMAIN-SUFFIX,aa.agkn.com
 DOMAIN-SUFFIX,telegram-store.com
+#美国之音
+DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,voanews.com
+DOMAIN-SUFFIX,disqus.com
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
